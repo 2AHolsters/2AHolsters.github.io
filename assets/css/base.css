@@ -1,0 +1,31 @@
+* {
+	margin: 0 auto;
+	text-align: center;
+}
+
+body {
+	height: 100%;
+	width: 100%;
+	background: #27452D;
+	color: #dddddd;
+}
+.contact {
+	margin-left: -1em;
+}
+.contact-item {
+	list-style: none;
+	font-size: 3em;
+	display: inline;
+	padding-right: .5em;
+	color: #dddddd;
+}
+
+.navbar {
+	background: #464A47;
+}
+
+.carousel-control {
+	background: none !important;
+	filter: none;
+
+}
